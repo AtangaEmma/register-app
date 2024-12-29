@@ -32,13 +32,13 @@
     <repository>
       <id>nexus</id>
       <name>Solavise Technologies Releases Nexus Repository</name>
-      <url>http://3.90.232.44:8081/repository/maven-releases-repo/</url>
+      <url>http://107.20.52.3:8081/repository/maven-releases/</url>
     </repository>
 
     <snapshotRepository>
        <id>nexus</id>
        <name>Solavise Technologies Snapshot Nexus Repository </name>
-       <url>http://3.90.232.44:8081/repository/maven-snapshot-repo/</url>
+       <url>http://107.20.52.3:8081/repository/maven-snapshots/</url>
      </snapshotRepository>
 </distributionManagement>
 
